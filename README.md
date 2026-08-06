@@ -63,13 +63,22 @@ Build a professional portfolio project for GitHub and LinkedIn.
 
 👉🏻 Portfolio Demonstration
 
-# 📚 Learning Outcomes
-This project helps in understanding:
-Agile Methodology
-Scrum Workflow
-Kanban Board Implementation
-Sprint Management
-Project Planning
-Front-End Development
-Responsive UI Design
-JavaScript DOM Manipulation
+# Learning Outcomes 📚
+
+•This project helps in understanding:
+
+•Agile Methodology
+
+•Scrum Workflow
+
+•Kanban Board Implementation
+
+•Sprint Management
+
+•Project Planning
+
+•Front-End Development
+
+•Responsive UI Design
+
+•JavaScript DOM Manipulation
