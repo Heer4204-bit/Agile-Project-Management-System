@@ -1,6 +1,8 @@
 # 🚀 Agile Project Management System
 Agile Project Management System is a modern, responsive, and Jira-inspired web application designed to help teams efficiently plan, organize, and track software development projects using Agile methodologies. Built with HTML, CSS, and JavaScript, this project provides an intuitive Kanban-style interface for managing tasks across different stages of development.
+
 The application allows users to create, prioritize, and organize tasks using Kanban Boards, manage product backlogs, plan sprints, track bugs, monitor project progress, and switch between light and dark themes for an enhanced user experience. Its clean interface and responsive design make it suitable for desktops, tablets, and mobile devices.
+
 This project demonstrates practical implementation of Agile Project Management concepts such as Sprint Planning, Backlog Management, Task Prioritization, Workflow Tracking, and Progress Monitoring, making it an excellent portfolio project for students, developers, and aspiring project managers.
 
 # Key Features
