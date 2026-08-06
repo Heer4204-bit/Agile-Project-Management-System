@@ -40,7 +40,7 @@ This project demonstrates practical implementation of Agile Project Management c
 
 📱 Responsive Web Design
 
-# Project Objectives🎯
+# Project Objectives 🎯
 
 - Implement Agile Project Management principles.
 
@@ -52,7 +52,7 @@ This project demonstrates practical implementation of Agile Project Management c
 
 - Build a professional portfolio project for GitHub and LinkedIn.
 
-# Use Cases💼
+# Use Cases 💼
 
 👉🏻 Software Development Teams
 
@@ -68,7 +68,7 @@ This project demonstrates practical implementation of Agile Project Management c
 
 👉🏻 Portfolio Demonstration
 
-# Learning Outcomes📚
+# Learning Outcomes 📚
 
 This project helps in understanding:
 
