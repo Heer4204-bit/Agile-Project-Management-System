@@ -5,23 +5,39 @@ The application allows users to create, prioritize, and organize tasks using Kan
 This project demonstrates practical implementation of Agile Project Management concepts such as Sprint Planning, Backlog Management, Task Prioritization, Workflow Tracking, and Progress Monitoring, making it an excellent portfolio project for students, developers, and aspiring project managers.
 
 # Key Features
+
 📋 Kanban Board (To Do, In Progress, Done)
+
 🏃 Sprint Planning
+
 📌 Product Backlog Management
+
 🔥 Task Priority Management
+
 📅 Due Date Tracking
+
 🏷️ Labels & Categories
+
 🔍 Search & Filter Tasks
+
 📊 Progress Tracking Dashboard
+
 🐞 Bug Tracking Module
+
 🌙 Dark Mode Support
+
 📱 Fully Responsive Design
+
 ⚡ Fast and Lightweight Interface
 
 # Technologies Used 🛠️
+
 🌐 HTML5
+
 🎨 CSS3
+
 ⚡ JavaScript (ES6)
+
 📱 Responsive Web Design
 
 # 🎯 Project Objectives
@@ -31,14 +47,21 @@ Improve task organization and team collaboration.
 Practice front-end web development skills.
 Build a professional portfolio project for GitHub and LinkedIn.
 
-# 💼 Use Cases
-Software Development Teams
-College Mini Projects
-Agile & Scrum Learning
-Project Planning
-Task Management
-Bug Tracking
-Portfolio Demonstration
+# Use Cases 💼
+
+👉🏻 Software Development Teams
+
+👉🏻 College Mini Projects
+
+👉🏻 Agile & Scrum Learning
+
+👉🏻 Project Planning
+
+👉🏻 Task Management
+
+👉🏻 Bug Tracking
+
+👉🏻 Portfolio Demonstration
 
 # 📚 Learning Outcomes
 This project helps in understanding:
