@@ -1,6 +1,8 @@
 # 🚀 Agile Project Management System
 Agile Project Management System is a modern, responsive, and Jira-inspired web application designed to help teams efficiently plan, organize, and track software development projects using Agile methodologies. Built with HTML, CSS, and JavaScript, this project provides an intuitive Kanban-style interface for managing tasks across different stages of development.
+
 The application allows users to create, prioritize, and organize tasks using Kanban Boards, manage product backlogs, plan sprints, track bugs, monitor project progress, and switch between light and dark themes for an enhanced user experience. Its clean interface and responsive design make it suitable for desktops, tablets, and mobile devices.
+
 This project demonstrates practical implementation of Agile Project Management concepts such as Sprint Planning, Backlog Management, Task Prioritization, Workflow Tracking, and Progress Monitoring, making it an excellent portfolio project for students, developers, and aspiring project managers.
 
 # Key Features
@@ -40,31 +42,31 @@ This project demonstrates practical implementation of Agile Project Management c
 📱 Responsive Web Design
 
 # 🎯 Project Objectives
-Implement Agile Project Management principles.
+👉🏻 Implement Agile Project Management principles.
 
-Simulate a Jira-like project management workflow.
+👉🏻 Simulate a Jira-like project management workflow.
 
-Improve task organization and team collaboration.
+👉🏻 Improve task organization and team collaboration.
 
-Practice front-end web development skills.
+👉🏻 Practice front-end web development skills.
 
-Build a professional portfolio project for GitHub and LinkedIn.
+👉🏻 Build a professional portfolio project for GitHub and LinkedIn.
 
 # Use Cases💼
 
-Software Development Teams
+- Software Development Teams
 
-College Mini Projects
+- College Mini Projects
 
-Agile & Scrum Learning
+- Agile & Scrum Learning
 
-Project Planning
+- Project Planning
 
-Task Management
+- Task Management
 
-Bug Tracking
+- Bug Tracking
 
-Portfolio Demonstration
+- Portfolio Demonstration
 
 # 📚 Learning Outcomes
 
